@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://robsteriam.github.io/contact/</loc>
+    <loc>http://robster.dev/contact/</loc>
     <lastmod>2021-09-23T09:02:27-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/projects/</loc>
+    <loc>http://robster.dev/projects/</loc>
     <lastmod>2021-09-23T09:01:42-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/posts/2nd-post/</loc>
+    <loc>http://robster.dev/posts/2nd-post/</loc>
     <lastmod>2021-09-23T01:13:48-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/posts/</loc>
+    <loc>http://robster.dev/posts/</loc>
     <lastmod>2021-09-23T01:13:48-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/</loc>
+    <loc>http://robster.dev/</loc>
     <lastmod>2021-09-23T01:13:48-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/about/</loc>
+    <loc>http://robster.dev/about/</loc>
     <lastmod>2021-09-23T00:45:34-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/posts/first-post/</loc>
+    <loc>http://robster.dev/posts/first-post/</loc>
     <lastmod>2021-09-23T00:45:30-07:00</lastmod>
   </url><url>
-    <loc>http://robsteriam.github.io/authors/</loc>
+    <loc>http://robster.dev/authors/</loc>
   </url><url>
-    <loc>http://robsteriam.github.io/categories/</loc>
+    <loc>http://robster.dev/categories/</loc>
   </url><url>
-    <loc>http://robsteriam.github.io/series/</loc>
+    <loc>http://robster.dev/series/</loc>
   </url><url>
-    <loc>http://robsteriam.github.io/tags/</loc>
+    <loc>http://robster.dev/tags/</loc>
   </url>
 </urlset>

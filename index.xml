@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robsterdev</title>
-    <link>http://robsteriam.github.io/</link>
+    <link>http://robster.dev/</link>
     <description>Recent content on robsterdev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Sep 2021 01:13:48 -0700</lastBuildDate><atom:link href="http://robsteriam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Sep 2021 01:13:48 -0700</lastBuildDate><atom:link href="http://robster.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://robsteriam.github.io/contact/</link>
+      <link>http://robster.dev/contact/</link>
       <pubDate>Thu, 23 Sep 2021 09:02:27 -0700</pubDate>
       
-      <guid>http://robsteriam.github.io/contact/</guid>
+      <guid>http://robster.dev/contact/</guid>
       <description>Contact me here &amp;mdash;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://robsteriam.github.io/projects/</link>
+      <link>http://robster.dev/projects/</link>
       <pubDate>Thu, 23 Sep 2021 09:01:42 -0700</pubDate>
       
-      <guid>http://robsteriam.github.io/projects/</guid>
+      <guid>http://robster.dev/projects/</guid>
       <description>A list of projects, but clearly the page is blank</description>
     </item>
     
     <item>
       <title>My second blog post</title>
-      <link>http://robsteriam.github.io/posts/2nd-post/</link>
+      <link>http://robster.dev/posts/2nd-post/</link>
       <pubDate>Thu, 23 Sep 2021 01:13:48 -0700</pubDate>
       
-      <guid>http://robsteriam.github.io/posts/2nd-post/</guid>
+      <guid>http://robster.dev/posts/2nd-post/</guid>
       <description>This is my 2nd post!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://robsteriam.github.io/about/</link>
+      <link>http://robster.dev/about/</link>
       <pubDate>Thu, 23 Sep 2021 00:45:34 -0700</pubDate>
       
-      <guid>http://robsteriam.github.io/about/</guid>
+      <guid>http://robster.dev/about/</guid>
       <description>About me page</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://robsteriam.github.io/posts/first-post/</link>
+      <link>http://robster.dev/posts/first-post/</link>
       <pubDate>Thu, 23 Sep 2021 00:45:30 -0700</pubDate>
       
-      <guid>http://robsteriam.github.io/posts/first-post/</guid>
+      <guid>http://robster.dev/posts/first-post/</guid>
       <description>My first post!</description>
     </item>
     
